@@ -14,4 +14,4 @@ int main(){
     func(8);
 
     return 0;
-}
+}   
